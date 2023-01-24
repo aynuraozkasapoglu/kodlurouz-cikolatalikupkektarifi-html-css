@@ -1,2 +1,2 @@
-# -ikolatal-K-p-Tarifi
+# CikolataKupTarifi
 Çikolatalı Küp Tarifi html
